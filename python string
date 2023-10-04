@@ -1,0 +1,7 @@
+print("hello,world"!)
+a="golem,smart"
+print(a.upper())
+print(a.lower())
+print(a.strip())
+print(a.replace("g"  ,  "h"))
+print(a.split(","))
